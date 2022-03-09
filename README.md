@@ -23,7 +23,7 @@
 
 5. [Setting up a macOS Workspace](https://github.com/mikeroyal/Linux-Mint-Guide#setting-up-a-macos-workspace)
 
-6. [Setting up a Windows 10/11 Workspace](https://github.com/mikeroyal/Linux-Mint-Guide#setting-up-a-windows-10-11-workspace)
+6. [Setting up a Windows 10/11 Workspace](https://github.com/mikeroyal/Linux-Mint-Guide#setting-up-a-windows-1011-workspace)
 
 7. [Using Android and Android Apps on Linux](https://github.com/mikeroyal/Linux-Mint-Guide#using-android-and-android-apps-on-linux)
 
@@ -39,7 +39,7 @@
 
 13. [Differential Privacy](https://github.com/mikeroyal/Linux-Mint-Guide#differential-privacy)
 
-14. [Cloud Native Development](https://github.com/mikeroyal/Linux-Mint-Guided#cloud-native-development)
+14. [Cloud Native Development](https://github.com/mikeroyal/Linux-Mint-Guide#cloud-native-development)
 
 15. [DevOps Development](https://github.com/mikeroyal/Linux-Mint-Guide#devops-development)
 
