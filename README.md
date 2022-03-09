@@ -95,7 +95,7 @@
   Etcher UI
 </h2>
 
-## Installing KDE Plasma on Debian
+## Installing KDE Plasma on Linux Mint
 
 ```sh
 sudo apt install kde-plasma-desktop
@@ -111,30 +111,6 @@ sudo apt install kde-standard
   KDE Plasma Desktop on Linux Mint
 </h1>
 
-
-## Installing Pop Shell on Debian
-
-[Pop Shell](https://github.com/pop-os/shell) is a keyboard-driven layer for GNOME Shell which allows for quick and sensible navigation and management of windows. The core feature of Pop Shell is the addition of advanced tiling window management similar to i3wm.
-
-In order to use Pop Shell your system must have the following applications installed.
-
- - GNOME Shell 3.36
- - TypeScript 3.8
- - GNU Make
- 
-```sh
-sudo apt install node-typescript make
-git clone https://github.com/pop-os/shell
-cd shell
-./rebuild.sh
-```
-
-## GNOME Tweaks
-
-```sh
-sudo apt install gnome-tweak-tool //let's you customize your desktop layout.
-```
-
 ## Enable Firewall
 
 ```sh
@@ -144,15 +120,11 @@ sudo systemctl start ufw
 # Getting Software
 [Back to the Top](https://github.com/mikeroyal/Linux-Mint-Guide#table-of-contents)
 
-## GNOME Software Center
+## Linux Mint Software Center
 
-<img src="https://user-images.githubusercontent.com/45159366/145691816-6445caec-5608-4022-bff2-353cfb728c66.png">
+<img src="https://user-images.githubusercontent.com/45159366/157350978-ecce979a-7a59-43e2-a014-4ff8bd02d1b2.png">
 
-## KDE Plasma Discover Software Center
-
-<img src="https://user-images.githubusercontent.com/45159366/145691934-52154d53-2457-4226-be11-ee23d4520c74.png">
-
-**Note 1: All this software is also available in other popular Linux distributions such as [Debian](https://www.debian.org/), [Linux Mint](https://linuxmint.com/), [elementary OS](https://elementary.io/), [Pop!_OS](https://pop.system76.com/), [Fedora](https://getfedora.org), [Manjaro Linux](https://manjaro.org/), [EndeavourOS](https://endeavouros.com/) and [Arch Linux](https://archlinux.org/).**
+**Note 1: All this software is also available in other popular Linux distributions such as [Debian](https://www.debian.org/), [elementary OS](https://elementary.io/), [Pop!_OS](https://pop.system76.com/), [Fedora](https://getfedora.org), [Manjaro Linux](https://manjaro.org/), [EndeavourOS](https://endeavouros.com/) and [Arch Linux](https://archlinux.org/).**
 
 **Note 2: For new users not comfortable with using the command-line checkout the Essential Apps section to get started. Also, if you scroll down further you'll see other easy ways to get software applications through Flathub, Snap Store, and AppImages.**
 
