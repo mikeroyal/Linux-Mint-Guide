@@ -106,7 +106,7 @@ OR
 sudo apt install kde-standard
 ```
 <h1 align="center">
- <img src="https://user-images.githubusercontent.com/45159366/107439785-781ba780-6ae7-11eb-8900-d1ed0ee141a4.png">
+ <img src="https://user-images.githubusercontent.com/45159366/157352628-34ee2dfc-dc4b-489e-a70e-4f58b0fa1f79.png">
   <br />
   KDE Plasma Desktop on Linux Mint
 </h1>
