@@ -7,7 +7,7 @@
 #### A guide on setting up your Linux Mint Desktop with all the essential Applications, Tools, and Games to make your experience with Linux Mint great! 
 
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/157350290-9261ed0f-ed83-4f09-95be-612fbc407e56.png">
   <br />
 </p>
 
@@ -58,44 +58,42 @@
 [Linux Mint](https://linuxmint.com/) is a modern, elegant, and comfortable open source operating system(based on Debian and Ubuntu), which is both powerful and easy to use for both new and advanced users. The flagsip version of Linux Mint uses the [Cinnamon desktop environment](https://cinnamon-spices.linuxmint.com/) similiar to Windows 7.
 
 <h2 align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/157350295-4c6b8ab5-17d2-4e2f-91ca-a111bcdb2a34.png">
   <br />
   Linux Mint Desktop 
-</h2>
-
-[Linux Mint Xfce](https://linuxmint.com/edition.php?id=286) uses the [Xfce Desktop environment](https://xfce.org/).
-
-<h2 align="center">
- <img src="">
-  <br />
-  Linux Mint Desktop with Xfce
 </h2>
 
 [Linux Mint MATE](https://linuxmint.com/edition.php?id=285) uses the [MATE Desktop environment](https://mate-desktop.org/).
 
 <h2 align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/157350307-4683a0f4-2731-45c0-bda5-d50bac1c7153.png">
   <br />
   Linux Mint Desktop with MATE
+</h2>
+
+[Linux Mint Xfce](https://linuxmint.com/edition.php?id=286) uses the [Xfce Desktop environment](https://xfce.org/).
+
+<h2 align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/157350301-1bba5a9f-f404-40c1-b4fe-66f67a0b4268.png">
+  <br />
+  Linux Mint Desktop with Xfce
 </h2>
 
 [Linux Mint Debian Edition (LMDE)](https://www.linuxmint.com/download_lmde.php) uses [Debian Bullseye](https://www.debian.org/) as the base for a very stable and rock solid user experience with the Cinnamon desktop.
 
 <h2 align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/157350295-4c6b8ab5-17d2-4e2f-91ca-a111bcdb2a34.png">
   <br />
   Linux Mint Debian Edition (LMDE)
 </h2>
 
-
 [Etcher](https://www.balena.io/etcher/) is an open source, cross-platform software that makes it easy to flash operating system images to a microSD card or USB device.
 
 <h2 align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/157350348-e43ea5a2-2346-4b0b-acc0-fc3352c3d820.png">
   <br />
   Etcher UI
 </h2>
-
 
 ## Installing KDE Plasma on Debian
 
