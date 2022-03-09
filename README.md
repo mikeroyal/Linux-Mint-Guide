@@ -23,7 +23,7 @@
 
 5. [Setting up a macOS Workspace](https://github.com/mikeroyal/Linux-Mint-Guide#setting-up-a-macos-workspace)
 
-6. [Setting up a Windows 10/11 Workspace](https://github.com/mikeroyal/Linux-Mint-Guide#setting-up-a-windows-10-workspace)
+6. [Setting up a Windows 10/11 Workspace](https://github.com/mikeroyal/Linux-Mint-Guide#setting-up-a-windows-10-11-workspace)
 
 7. [Using Android and Android Apps on Linux](https://github.com/mikeroyal/Linux-Mint-Guide#using-android-and-android-apps-on-linux)
 
@@ -236,7 +236,7 @@ sudo apt install gnome-software-plugin-snap
 
 # Gaming
 
-[Back to the Top](https://github.com/mikeroyal/Debian-Guide/blob/main/README.md#table-of-contents)
+[Back to the Top](https://github.com/mikeroyal/Linux-Mint-Guide#table-of-contents)
 
 ## Steam
 
@@ -1242,7 +1242,6 @@ Above is a simple diagram of how Differential Privacy-Preserving Data Sharing an
 
 [Certified Ethical Emerging Technologist Professional Certificate course on Coursera](https://www.coursera.org/professional-certificates/certified-ethical-emerging-technologist)
 
-
 # Cloud Native Development
 [Back to the Top](https://github.com/mikeroyal/Linux-Mint-Guide#table-of-contents)
 
@@ -1970,9 +1969,9 @@ SSH: Secure shell is an encrypted protocol implemented in the application layer 
 
 ## Advanced Topics
 
-[Back to the Top](https://github.com/mikeroyal/Debian-Guide/blob/main/README.md#table-of-contents)
+[Back to the Top](https://github.com/mikeroyal/Linux-Mint-Guide#table-of-contents)
 
-**Below are some of my favorite Ubuntu tutorials from [DigitalOcean](https://www.digitalocean.com/) that also work well with Debian.**
+**Below are some of my favorite Ubuntu tutorials from [DigitalOcean](https://www.digitalocean.com/) that also work well with Linux Mint and Debian.**
 
 [How To Set Up Multi-Factor Authentication for SSH on Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-multi-factor-authentication-for-ssh-on-ubuntu-20-04)
 
